@@ -1,5 +1,5 @@
 
-### 👋 Hey there! Welcome to my Github profile.
+### 👋 Hey there! Welcome to my GitHub profile.
 
 ## Tools and Technologies:
 
@@ -7,6 +7,6 @@
 
          
 
-#### Social Media:
+#### Social:
 
 <a href="https://instagram.com/mariahcolli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
