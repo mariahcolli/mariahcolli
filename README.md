@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋🏻 Welcome to my GitHub profile.</h1>
-<h3 align="center">💻 Back-end Development | Business Intelligence 📊🐍 📍 BRAZIL</h3>
+<h3 align="center">💻 Back-end Development | Business Intelligence 📊🐍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariahcolli&label=Profile%20views&color=0e75b6&style=flat" alt="mariahcolli" /> </p>
 
