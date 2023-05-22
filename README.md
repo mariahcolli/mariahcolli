@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World! 👋🏻 Welcome to my GitHub profile.</h1>
-<h3 align="center"> 💻 Data Analysis | Business Intelligence 📊🐍 </h3>
+<h3 align="center"> 💻 Data Analysis | Business Intelligence 📊 </h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mariahcolli&label=Profile%20views&color=0e75b6&style=flat" alt="mariahcolli" /> </p>
 
 <h3 align="left">Main Languages, Technologies and Tools:</h3>
